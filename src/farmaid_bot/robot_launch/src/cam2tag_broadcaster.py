@@ -50,6 +50,9 @@ def publish_transforms():
 
 def tag_pose_callback(pose_array):
 
+    # World frame to tag frame(s)
+
+    # Camera frame to tag frame(s)
     if (len(pose_array.detections)==0):
         return
 
