@@ -1,6 +1,7 @@
 /devel
 /build
-
+/src/apriltags_ros
+/src/usb_cam
 
 .vscode
 .catkin_workspace
